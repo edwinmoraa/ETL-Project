@@ -1,0 +1,44 @@
+ID,Name,Category,Real Artwork Title,Artist,Tag,Internal ID,Image URL
+1,academic painting,Wall-mounted,Vitruvian Man,"Leonardo da Vinci, circa 1487, Pen and ink on paper",Picture,12619,https://acnhapi.com/v1/images/art/academic_painting
+2,amazing painting,Wall-mounted,The Night Watch,"Rembrandt van Rijn, 1642, Oil on canvas",Picture,56,https://acnhapi.com/v1/images/art/amazing_painting
+3,ancient statue,Miscellaneous,"Jōmon Period ""Dogū"" Figurine Shakōki-dogū","Artist Unknown, 1000-400 BCE, Fired pottery",Sculpture,1337,https://acnhapi.com/v1/images/art/ancient_statue
+4,basic painting,Wall-mounted,The Blue Boy,"Thomas Gainsborough, 1770, Oil on canvas",Picture,14,https://acnhapi.com/v1/images/art/basic_painting
+5,beautiful statue,Housewares,Venus de Milo,"Artist Unknown, circa 130 BCE, Marble",Sculpture,1341,https://acnhapi.com/v1/images/art/beautiful_statue
+6,calm painting,Wall-mounted,A Sunday Afternoon on the Island of La Grande Jatte,"Georges Seurat, circa 1885, Oil on canvas",Picture,78,https://acnhapi.com/v1/images/art/calm_painting
+7,common painting,Wall-mounted,The Gleaners,"Jean-François Millet, 1857, Oil on canvas",Picture,44,https://acnhapi.com/v1/images/art/common_painting
+8,detailed painting,Wall-mounted,Ajisai Sōkeizu,"Itō Jakuchū, 18th century, Dyed silk",Picture,12622,https://acnhapi.com/v1/images/art/detailed_painting
+9,dynamic painting,Wall-mounted,Thirty-Six Views of Mount Fuji The Great Wave off Kanagawa,"Katsushika Hokusai, circa 1831, Woodblock print",Picture,38,https://acnhapi.com/v1/images/art/dynamic_painting
+10,familiar statue,Housewares,The Thinker,"Auguste Rodin, 1902, Bronze",Sculpture,12541,https://acnhapi.com/v1/images/art/familiar_statue
+11,famous painting,Wall-mounted,Mona Lisa,"Leonardo da Vinci, circa 1503, Oil on poplar",Picture,18,https://acnhapi.com/v1/images/art/famous_painting
+12,flowery painting,Wall-mounted,Sunflowers,"Vincent van Gogh, circa 1888, Oil on canvas",Picture,50,https://acnhapi.com/v1/images/art/flowery_painting
+13,gallant statue,Housewares,David,"Michelangelo, circa 1504, Marble",Sculpture,1333,https://acnhapi.com/v1/images/art/gallant_statue
+14,glowing painting,Wall-mounted,The Fighting Temeraire,"Joseph Mallord William Turner, 1839, Oil on canvas",Picture,12624,https://acnhapi.com/v1/images/art/glowing_painting
+15,graceful painting,Wall-mounted,Beauty Looking Back,"Hishikawa Moronobu, 17th century, Color on silk",Picture,6,https://acnhapi.com/v1/images/art/graceful_painting
+16,great statue,Housewares,King Kamehameha I,"Thomas Ridgeway Gould, circa 1883, Bronze",Sculpture,1339,https://acnhapi.com/v1/images/art/great_statue
+17,informative statue,Housewares,Rosetta Stone,"Artist Unknown, 196 BCE, Granodiorite",Sculpture,12535,https://acnhapi.com/v1/images/art/informative_statue
+18,jolly painting,Wall-mounted,Summer,"Giuseppe Arcimboldo, circa 1563, Oil on canvas",Picture,42,https://acnhapi.com/v1/images/art/jolly_painting
+19,moody painting,Wall-mounted,The Sower,"Jean-François Millet, circa 1850, Oil on canvas",Picture,52,https://acnhapi.com/v1/images/art/moody_painting
+20,motherly statue,Housewares,Capitoline Wolf,"Artist Unknown, 5th century BCE, Bronze",Sculpture,1331,https://acnhapi.com/v1/images/art/motherly_statue
+21,moving painting,Wall-mounted,The Birth of Venus,"Sandro Botticelli, circa 1485, Tempura on canvas",Picture,32,https://acnhapi.com/v1/images/art/moving_painting
+22,mysterious painting,Wall-mounted,Isle of The Dead,"Arnold Böcklin, 1883, Oil on wood",Picture,12625,https://acnhapi.com/v1/images/art/mysterious_painting
+23,mystic statue,Miscellaneous,Bust of Nefertiti,"Thutmose, circa 1345 BCE",Sculpture,1343,https://acnhapi.com/v1/images/art/mystic_statue
+24,nice painting,Wall-mounted,The Fifer,"Édouard Manet, 1866, Oil on canvas",Picture,48,https://acnhapi.com/v1/images/art/nice_painting
+25,perfect painting,Wall-mounted,Apples and Oranges,"Paul Cézanne, circa 1899, Oil on canvas",Picture,20,https://acnhapi.com/v1/images/art/perfect_painting
+26,proper painting,Wall-mounted,A Bar at The Folies-Bergère,"Édouard Manet, circa 1882, Oil on canvas",Picture,46,https://acnhapi.com/v1/images/art/proper_painting
+27,quaint painting,Wall-mounted,The Milkmaid,"Johannes Vermeer, circa 1658, Oil on canvas",Picture,10,https://acnhapi.com/v1/images/art/quaint_painting
+28,robust statue,Housewares,Discobolus,"Artist Unknown, 2nd century CE, Marble",Sculpture,1335,https://acnhapi.com/v1/images/art/robust_statue
+29,rock-head statue,Housewares,Olmec Colossal Head,"Artist Unknown, circa 1000 BCE, Basalt, andesite",Sculpture,12533,https://acnhapi.com/v1/images/art/rock-head_statue
+30,scary painting,Wall-mounted,Ōtani Oniji the 3rd as Yakko Edobei,"Tōshūsai Sharaku, 1794, Woodblock print",Picture,66,https://acnhapi.com/v1/images/art/scary_painting
+31,scenic painting,Wall-mounted,The Hunters in The Snow,"Pieter Brueghel the Elder, 1565, Oil on wood panel",Picture,2,https://acnhapi.com/v1/images/art/scenic_painting
+32,serene painting,Wall-mounted,Lady with an Ermine,"Leonardo da Vinci, circa 1490, Oil on wood panel",Picture,24,https://acnhapi.com/v1/images/art/serene_painting
+33,sinking painting,Wall-mounted,Ophelia,"John Everett Millais, 1852, Oil on canvas",Picture,12621,https://acnhapi.com/v1/images/art/sinking_painting
+34,solemn painting,Wall-mounted,Las Meninas,"Diego Velázquez, circa 1656, Oil on canvas",Picture,72,https://acnhapi.com/v1/images/art/solemn_painting
+35,tremendous statue,Housewares,Houmuwu Ding,"Artist Unknown, 1200 BCE, Bronze",Sculpture,12537,https://acnhapi.com/v1/images/art/tremendous_statue
+36,twinkling painting,Wall-mounted,The Starry Night,"Vincent van Gogh, 1889, Oil on canvas",Picture,12618,https://acnhapi.com/v1/images/art/twinkling_painting
+37,valiant statue,Housewares,Nike of Samothrace,"Artist Unknown, circa 190 BCE, Marble",Sculpture,1345,https://acnhapi.com/v1/images/art/valiant_statue
+38,warm painting,Wall-mounted,The Clothed Maja,"Francisco de Goya, circa 1805, Oil on canvas",Picture,34,https://acnhapi.com/v1/images/art/warm_painting
+39,warrior statue,Housewares,Terracotta Army,"Artist Unknown, 210 BCE, Earthenware",Sculpture,12539,https://acnhapi.com/v1/images/art/warrior_statue
+40,wild painting left half,Housewares,Folding Screen of Fūjin and Raijin,"Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",Picture,12570,https://acnhapi.com/v1/images/art/wild_painting_left_half
+41,wild painting right half,Housewares,Folding Screen of Fūjin and Raijin,"Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",Picture,76,https://acnhapi.com/v1/images/art/wild_painting_right_half
+42,wistful painting,Wall-mounted,Girl with a Pearl Earring,"Johannes Vermeer, circa 1665, Oil on canvas",Picture,28,https://acnhapi.com/v1/images/art/wistful_painting
+43,worthy painting,Wall-mounted,Liberty Leading the People,"Eugène Delacroix, 1830, Oil on canvas",Picture,68,https://acnhapi.com/v1/images/art/worthy_painting

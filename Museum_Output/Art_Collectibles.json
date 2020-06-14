@@ -1,0 +1,474 @@
+[{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b01"
+  },
+  "Name": "academic painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Vitruvian Man",
+  "Artist": "Leonardo da Vinci, circa 1487, Pen and ink on paper",
+  "Tag": "Picture",
+  "Internal ID": 12619,
+  "Image URL": "https://acnhapi.com/v1/images/art/academic_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b02"
+  },
+  "Name": "amazing painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Night Watch",
+  "Artist": "Rembrandt van Rijn, 1642, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 56,
+  "Image URL": "https://acnhapi.com/v1/images/art/amazing_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b03"
+  },
+  "Name": "ancient statue",
+  "Category": "Miscellaneous",
+  "Real Artwork Title": "Jōmon Period \"Dogū\" Figurine Shakōki-dogū",
+  "Artist": "Artist Unknown, 1000-400 BCE, Fired pottery",
+  "Tag": "Sculpture",
+  "Internal ID": 1337,
+  "Image URL": "https://acnhapi.com/v1/images/art/ancient_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b04"
+  },
+  "Name": "basic painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Blue Boy",
+  "Artist": "Thomas Gainsborough, 1770, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 14,
+  "Image URL": "https://acnhapi.com/v1/images/art/basic_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b05"
+  },
+  "Name": "beautiful statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Venus de Milo",
+  "Artist": "Artist Unknown, circa 130 BCE, Marble",
+  "Tag": "Sculpture",
+  "Internal ID": 1341,
+  "Image URL": "https://acnhapi.com/v1/images/art/beautiful_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b06"
+  },
+  "Name": "calm painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "Artist": "Georges Seurat, circa 1885, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 78,
+  "Image URL": "https://acnhapi.com/v1/images/art/calm_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b07"
+  },
+  "Name": "common painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Gleaners",
+  "Artist": "Jean-François Millet, 1857, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 44,
+  "Image URL": "https://acnhapi.com/v1/images/art/common_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b08"
+  },
+  "Name": "detailed painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Ajisai Sōkeizu",
+  "Artist": "Itō Jakuchū, 18th century, Dyed silk",
+  "Tag": "Picture",
+  "Internal ID": 12622,
+  "Image URL": "https://acnhapi.com/v1/images/art/detailed_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b09"
+  },
+  "Name": "dynamic painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Thirty-Six Views of Mount Fuji The Great Wave off Kanagawa",
+  "Artist": "Katsushika Hokusai, circa 1831, Woodblock print",
+  "Tag": "Picture",
+  "Internal ID": 38,
+  "Image URL": "https://acnhapi.com/v1/images/art/dynamic_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0a"
+  },
+  "Name": "familiar statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "The Thinker",
+  "Artist": "Auguste Rodin, 1902, Bronze",
+  "Tag": "Sculpture",
+  "Internal ID": 12541,
+  "Image URL": "https://acnhapi.com/v1/images/art/familiar_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0b"
+  },
+  "Name": "famous painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Mona Lisa",
+  "Artist": "Leonardo da Vinci, circa 1503, Oil on poplar",
+  "Tag": "Picture",
+  "Internal ID": 18,
+  "Image URL": "https://acnhapi.com/v1/images/art/famous_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0c"
+  },
+  "Name": "flowery painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Sunflowers",
+  "Artist": "Vincent van Gogh, circa 1888, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 50,
+  "Image URL": "https://acnhapi.com/v1/images/art/flowery_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0d"
+  },
+  "Name": "gallant statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "David",
+  "Artist": "Michelangelo, circa 1504, Marble",
+  "Tag": "Sculpture",
+  "Internal ID": 1333,
+  "Image URL": "https://acnhapi.com/v1/images/art/gallant_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0e"
+  },
+  "Name": "glowing painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Fighting Temeraire",
+  "Artist": "Joseph Mallord William Turner, 1839, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 12624,
+  "Image URL": "https://acnhapi.com/v1/images/art/glowing_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b0f"
+  },
+  "Name": "graceful painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Beauty Looking Back",
+  "Artist": "Hishikawa Moronobu, 17th century, Color on silk",
+  "Tag": "Picture",
+  "Internal ID": 6,
+  "Image URL": "https://acnhapi.com/v1/images/art/graceful_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b10"
+  },
+  "Name": "great statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "King Kamehameha I",
+  "Artist": "Thomas Ridgeway Gould, circa 1883, Bronze",
+  "Tag": "Sculpture",
+  "Internal ID": 1339,
+  "Image URL": "https://acnhapi.com/v1/images/art/great_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b11"
+  },
+  "Name": "informative statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Rosetta Stone",
+  "Artist": "Artist Unknown, 196 BCE, Granodiorite",
+  "Tag": "Sculpture",
+  "Internal ID": 12535,
+  "Image URL": "https://acnhapi.com/v1/images/art/informative_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b12"
+  },
+  "Name": "jolly painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Summer",
+  "Artist": "Giuseppe Arcimboldo, circa 1563, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 42,
+  "Image URL": "https://acnhapi.com/v1/images/art/jolly_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b13"
+  },
+  "Name": "moody painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Sower",
+  "Artist": "Jean-François Millet, circa 1850, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 52,
+  "Image URL": "https://acnhapi.com/v1/images/art/moody_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b14"
+  },
+  "Name": "motherly statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Capitoline Wolf",
+  "Artist": "Artist Unknown, 5th century BCE, Bronze",
+  "Tag": "Sculpture",
+  "Internal ID": 1331,
+  "Image URL": "https://acnhapi.com/v1/images/art/motherly_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b15"
+  },
+  "Name": "moving painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Birth of Venus",
+  "Artist": "Sandro Botticelli, circa 1485, Tempura on canvas",
+  "Tag": "Picture",
+  "Internal ID": 32,
+  "Image URL": "https://acnhapi.com/v1/images/art/moving_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b16"
+  },
+  "Name": "mysterious painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Isle of The Dead",
+  "Artist": "Arnold Böcklin, 1883, Oil on wood",
+  "Tag": "Picture",
+  "Internal ID": 12625,
+  "Image URL": "https://acnhapi.com/v1/images/art/mysterious_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b17"
+  },
+  "Name": "mystic statue",
+  "Category": "Miscellaneous",
+  "Real Artwork Title": "Bust of Nefertiti",
+  "Artist": "Thutmose, circa 1345 BCE",
+  "Tag": "Sculpture",
+  "Internal ID": 1343,
+  "Image URL": "https://acnhapi.com/v1/images/art/mystic_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b18"
+  },
+  "Name": "nice painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Fifer",
+  "Artist": "Édouard Manet, 1866, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 48,
+  "Image URL": "https://acnhapi.com/v1/images/art/nice_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b19"
+  },
+  "Name": "perfect painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Apples and Oranges",
+  "Artist": "Paul Cézanne, circa 1899, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 20,
+  "Image URL": "https://acnhapi.com/v1/images/art/perfect_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1a"
+  },
+  "Name": "proper painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "A Bar at The Folies-Bergère",
+  "Artist": "Édouard Manet, circa 1882, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 46,
+  "Image URL": "https://acnhapi.com/v1/images/art/proper_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1b"
+  },
+  "Name": "quaint painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Milkmaid",
+  "Artist": "Johannes Vermeer, circa 1658, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 10,
+  "Image URL": "https://acnhapi.com/v1/images/art/quaint_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1c"
+  },
+  "Name": "robust statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Discobolus",
+  "Artist": "Artist Unknown, 2nd century CE, Marble",
+  "Tag": "Sculpture",
+  "Internal ID": 1335,
+  "Image URL": "https://acnhapi.com/v1/images/art/robust_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1d"
+  },
+  "Name": "rock-head statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Olmec Colossal Head",
+  "Artist": "Artist Unknown, circa 1000 BCE, Basalt, andesite",
+  "Tag": "Sculpture",
+  "Internal ID": 12533,
+  "Image URL": "https://acnhapi.com/v1/images/art/rock-head_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1e"
+  },
+  "Name": "scary painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Ōtani Oniji the 3rd as Yakko Edobei",
+  "Artist": "Tōshūsai Sharaku, 1794, Woodblock print",
+  "Tag": "Picture",
+  "Internal ID": 66,
+  "Image URL": "https://acnhapi.com/v1/images/art/scary_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b1f"
+  },
+  "Name": "scenic painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Hunters in The Snow",
+  "Artist": "Pieter Brueghel the Elder, 1565, Oil on wood panel",
+  "Tag": "Picture",
+  "Internal ID": 2,
+  "Image URL": "https://acnhapi.com/v1/images/art/scenic_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b20"
+  },
+  "Name": "serene painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Lady with an Ermine",
+  "Artist": "Leonardo da Vinci, circa 1490, Oil on wood panel",
+  "Tag": "Picture",
+  "Internal ID": 24,
+  "Image URL": "https://acnhapi.com/v1/images/art/serene_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b21"
+  },
+  "Name": "sinking painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Ophelia",
+  "Artist": "John Everett Millais, 1852, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 12621,
+  "Image URL": "https://acnhapi.com/v1/images/art/sinking_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b22"
+  },
+  "Name": "solemn painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Las Meninas",
+  "Artist": "Diego Velázquez, circa 1656, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 72,
+  "Image URL": "https://acnhapi.com/v1/images/art/solemn_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b23"
+  },
+  "Name": "tremendous statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Houmuwu Ding",
+  "Artist": "Artist Unknown, 1200 BCE, Bronze",
+  "Tag": "Sculpture",
+  "Internal ID": 12537,
+  "Image URL": "https://acnhapi.com/v1/images/art/tremendous_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b24"
+  },
+  "Name": "twinkling painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Starry Night",
+  "Artist": "Vincent van Gogh, 1889, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 12618,
+  "Image URL": "https://acnhapi.com/v1/images/art/twinkling_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b25"
+  },
+  "Name": "valiant statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Nike of Samothrace",
+  "Artist": "Artist Unknown, circa 190 BCE, Marble",
+  "Tag": "Sculpture",
+  "Internal ID": 1345,
+  "Image URL": "https://acnhapi.com/v1/images/art/valiant_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b26"
+  },
+  "Name": "warm painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "The Clothed Maja",
+  "Artist": "Francisco de Goya, circa 1805, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 34,
+  "Image URL": "https://acnhapi.com/v1/images/art/warm_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b27"
+  },
+  "Name": "warrior statue",
+  "Category": "Housewares",
+  "Real Artwork Title": "Terracotta Army",
+  "Artist": "Artist Unknown, 210 BCE, Earthenware",
+  "Tag": "Sculpture",
+  "Internal ID": 12539,
+  "Image URL": "https://acnhapi.com/v1/images/art/warrior_statue"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b28"
+  },
+  "Name": "wild painting left half",
+  "Category": "Housewares",
+  "Real Artwork Title": "Folding Screen of Fūjin and Raijin",
+  "Artist": "Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",
+  "Tag": "Picture",
+  "Internal ID": 12570,
+  "Image URL": "https://acnhapi.com/v1/images/art/wild_painting_left_half"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b29"
+  },
+  "Name": "wild painting right half",
+  "Category": "Housewares",
+  "Real Artwork Title": "Folding Screen of Fūjin and Raijin",
+  "Artist": "Tawaraya Sōtatsu, 17th century, Gold leaf and ink on paper",
+  "Tag": "Picture",
+  "Internal ID": 76,
+  "Image URL": "https://acnhapi.com/v1/images/art/wild_painting_right_half"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b2a"
+  },
+  "Name": "wistful painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Girl with a Pearl Earring",
+  "Artist": "Johannes Vermeer, circa 1665, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 28,
+  "Image URL": "https://acnhapi.com/v1/images/art/wistful_painting"
+},{
+  "_id": {
+    "$oid": "5ee57744916c92302d425b2b"
+  },
+  "Name": "worthy painting",
+  "Category": "Wall-mounted",
+  "Real Artwork Title": "Liberty Leading the People",
+  "Artist": "Eugène Delacroix, 1830, Oil on canvas",
+  "Tag": "Picture",
+  "Internal ID": 68,
+  "Image URL": "https://acnhapi.com/v1/images/art/worthy_painting"
+}]

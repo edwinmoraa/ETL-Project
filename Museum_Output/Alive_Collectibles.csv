@@ -1,0 +1,161 @@
+,#,Name,Sell,Internal ID,Month Northern,Month Southern,Time,AllDay T/F,AllYear T/F,Location,Rarity,Image URL
+0,56,anchovy,200,4201,,,4am - 9pm,False,True,Sea,Common,https://acnhapi.com/v1/images/fish/56
+1,36,angelfish,3000,2247,5-10,11-4,4pm - 9am,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/36
+2,44,arapaima,10000,2253,6-9,12-3,4pm - 9am,False,False,River,Rare,https://acnhapi.com/v1/images/fish/44
+3,41,arowana,10000,2250,6-9,12-3,4pm - 9am,False,False,River,Rare,https://acnhapi.com/v1/images/fish/41
+4,58,barred knifejaw,5000,2265,2-11,9-5,,True,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/58
+5,79,barreleye,15000,4204,,,9pm - 4am,False,True,Sea,Ultra-rare,https://acnhapi.com/v1/images/fish/79
+6,37,betta,2500,4191,5-10,11-4,9am - 4pm,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/37
+7,1,bitterling,900,2215,11-3,5-9,,True,False,River,Common,https://acnhapi.com/v1/images/fish/1
+8,22,black bass,400,2234,,,,True,True,River,Common,https://acnhapi.com/v1/images/fish/22
+9,54,blowfish,5000,2262,11-2,5-8,9pm - 4am,False,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/54
+10,67,blue marlin,10000,2275,11-4 & 7-9,5-10 & 1-3,,True,False,Pier,Rare,https://acnhapi.com/v1/images/fish/67
+11,20,bluegill,180,2232,,,9am - 4pm,False,True,River,Common,https://acnhapi.com/v1/images/fish/20
+12,51,butterfly fish,1000,2259,4-9,10-3,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/51
+13,5,carp,300,2219,,,,True,True,Pond,Common,https://acnhapi.com/v1/images/fish/5
+14,18,catfish,800,2229,5-10,11-4,4pm - 9am,False,False,Pond,Common,https://acnhapi.com/v1/images/fish/18
+15,28,char,3800,2239,3-6 & 9-11,3-5 & 9-12,4pm - 9am,False,False,River (Clifftop) & Pond,Uncommon,https://acnhapi.com/v1/images/fish/28
+16,27,cherry salmon,1000,2238,3-6 & 9-11,3-5 & 9-12,4pm - 9am,False,False,River (Clifftop),Common,https://acnhapi.com/v1/images/fish/27
+17,49,clown fish,650,2257,4-9,10-3,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/49
+18,80,coelacanth,15000,2284,,,,True,True,Sea (when raining or snowing),Ultra-rare,https://acnhapi.com/v1/images/fish/80
+19,11,crawfish,200,2223,4-9,10-3,,True,False,Pond,Common,https://acnhapi.com/v1/images/fish/11
+20,3,crucian carp,160,328,,,,True,True,River,Common,https://acnhapi.com/v1/images/fish/3
+21,61,dab,300,2268,10-4,4-10,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/61
+22,4,dace,240,2217,,,4pm - 9am,False,True,River,Common,https://acnhapi.com/v1/images/fish/4
+23,42,dorado,15000,2251,6-9,12-3,4am - 9pm,False,False,River,Ultra-rare,https://acnhapi.com/v1/images/fish/42
+24,77,football fish,2500,2273,11-3,5-9,4pm - 9am,False,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/77
+25,16,freshwater goby,400,2227,,,4pm - 9am,False,True,River,Common,https://acnhapi.com/v1/images/fish/16
+26,15,frog,120,2226,5-8,11-2,,True,False,Pond,Common,https://acnhapi.com/v1/images/fish/15
+27,43,gar,6000,2252,6-9,12-3,4pm - 9am,False,False,Pond,Rare,https://acnhapi.com/v1/images/fish/43
+28,19,giant snakehead,5500,2231,6-8,12-2,9am - 4pm,False,False,Pond,Rare,https://acnhapi.com/v1/images/fish/19
+29,68,giant trevally,4500,2276,5-10,11-4,,True,False,Pier,Uncommon,https://acnhapi.com/v1/images/fish/68
+30,29,golden trout,15000,4193,3-5 & 9-11,3-5 & 9-11,4pm - 9am,False,False,River (Clifftop),Ultra-rare,https://acnhapi.com/v1/images/fish/29
+31,7,goldfish,1300,329,,,,True,True,Pond,Common,https://acnhapi.com/v1/images/fish/7
+32,74,great white shark,15000,2280,6-9,12-3,4pm - 9am,False,False,Sea,Rare,https://acnhapi.com/v1/images/fish/74
+33,34,guppy,1300,2245,4-11,10-3,9am - 4pm,False,False,River,Common,https://acnhapi.com/v1/images/fish/34
+34,73,hammerhead shark,8000,2279,6-9,12-3,4pm - 9am,False,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/73
+35,57,horse mackerel,150,2264,,,,True,True,Sea,Common,https://acnhapi.com/v1/images/fish/57
+36,10,killifish,300,2222,4-8,10-2,,True,False,Pond,Common,https://acnhapi.com/v1/images/fish/10
+37,32,king salmon,1800,2243,9,3,,True,False,River (Mouth),Uncommon,https://acnhapi.com/v1/images/fish/32
+38,6,koi,4000,2220,,,4pm - 9am,False,True,Pond,Uncommon,https://acnhapi.com/v1/images/fish/6
+39,17,loach,400,2228,3-5,9-11,,True,False,River,Common,https://acnhapi.com/v1/images/fish/17
+40,69,mahi-mahi,6000,4202,5-10,11-4,,True,False,Pier,Rare,https://acnhapi.com/v1/images/fish/69
+41,33,mitten crab,2000,2244,9-11,3-5,4pm - 9am,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/33
+42,64,moray eel,2000,2271,8-10,2-4,,True,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/64
+43,52,Napoleonfish,10000,2260,7-8,1-2,4am - 9pm,False,False,Sea,Rare,https://acnhapi.com/v1/images/fish/52
+44,38,neon tetra,500,2248,4-11,9-5,9am - 4pm,False,False,River,Common,https://acnhapi.com/v1/images/fish/38
+45,35,nibble fish,1500,2246,5-9,11-3,9am - 4pm,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/35
+46,78,oarfish,9000,2283,12-5,6-11,,True,False,Sea,Rare,https://acnhapi.com/v1/images/fish/78
+47,70,ocean sunfish,4000,2278,7-9,1-3,4am - 9pm,False,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/70
+48,62,olive flounder,800,2269,,,,True,True,Sea,Common,https://acnhapi.com/v1/images/fish/62
+49,2,pale chub,200,2216,,,9am - 4pm,False,True,River,Common,https://acnhapi.com/v1/images/fish/2
+50,24,pike,1800,2235,9-12,3-6,,True,False,River,Uncommon,https://acnhapi.com/v1/images/fish/24
+51,40,piranha,2500,2249,6-9,12-3,9am - 4pm & 9pm - 4am,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/40
+52,25,pond smelt,400,2236,12-2,6-8,,True,False,River,Common,https://acnhapi.com/v1/images/fish/25
+53,8,pop-eyed goldfish,1300,2221,,,9am - 4pm,False,True,Pond,Common,https://acnhapi.com/v1/images/fish/8
+54,55,puffer fish,250,2263,7-9,1-3,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/55
+55,39,rainbowfish,800,4194,5-10,11-4,9am - 4pm,False,False,River,Common,https://acnhapi.com/v1/images/fish/39
+56,9,ranchu goldfish,4500,5254,,,9am - 4pm,False,True,Pond,Uncommon,https://acnhapi.com/v1/images/fish/9
+57,71,ray,3000,2277,8-11,2-5,4am - 9pm,False,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/71
+58,60,red snapper,3000,2267,,,,True,True,Sea,Common,https://acnhapi.com/v1/images/fish/60
+59,65,ribbon eel,600,2272,6-10,12-4,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/65
+60,45,saddled bichir,4000,2254,6-9,12-3,9pm - 4am,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/45
+61,31,salmon,700,2242,9,3,,True,False,River (Mouth),Common,https://acnhapi.com/v1/images/fish/31
+62,72,saw shark,12000,2281,6-9,12-3,4pm - 9am,False,False,Sea,Rare,https://acnhapi.com/v1/images/fish/72
+63,59,sea bass,400,2266,,,,True,True,Sea,Common,https://acnhapi.com/v1/images/fish/59
+64,47,sea butterfly,1000,2255,12-3,6-9,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/47
+65,48,sea horse,1100,2256,4-11,10-5,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/48
+66,13,snapping turtle,5000,4192,4-10,10-4,9pm - 4am,False,False,River,Common,https://acnhapi.com/v1/images/fish/13
+67,12,soft-shelled turtle,3750,2224,8-9,2-3,4pm - 9am,False,False,River,Uncommon,https://acnhapi.com/v1/images/fish/12
+68,63,squid,500,2270,12-8,6-2,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/63
+69,30,stringfish,15000,2241,12-3,6-9,4pm - 9am,False,False,River (Clifftop),Ultra-rare,https://acnhapi.com/v1/images/fish/30
+70,46,sturgeon,10000,4189,9-3,3-9,,True,False,River (Mouth),Uncommon,https://acnhapi.com/v1/images/fish/46
+71,76,suckerfish,1500,4203,6-9,12-3,,True,False,Sea,Uncommon,https://acnhapi.com/v1/images/fish/76
+72,50,surgeonfish,1000,2258,4-9,10-3,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/50
+73,26,sweetfish,900,2237,7-9,1-3,,True,False,River,Common,https://acnhapi.com/v1/images/fish/26
+74,14,tadpole,100,2225,3-7,9-1,,True,False,Pond,Common,https://acnhapi.com/v1/images/fish/14
+75,23,tilapia,800,4190,6-10,12-4,,True,False,River,Common,https://acnhapi.com/v1/images/fish/23
+76,66,tuna,7000,2274,11-4,5-10,,True,False,Pier,Rare,https://acnhapi.com/v1/images/fish/66
+77,75,whale shark,13000,2282,6-9,12-3,,True,False,Sea,Rare,https://acnhapi.com/v1/images/fish/75
+78,21,yellow perch,300,2233,10-3,4-9,,True,False,River,Common,https://acnhapi.com/v1/images/fish/21
+79,53,zebra turkeyfish,500,2261,4-11,10-5,,True,False,Sea,Common,https://acnhapi.com/v1/images/fish/53
+0,10,agrias butterfly,3000,620,4-9,10-3,8am - 5pm,False,False,Flying,Uncommon,https://acnhapi.com/v1/images/bugs/10
+1,69,ant,80,588,,,,True,True,On rotten food,Common,https://acnhapi.com/v1/images/bugs/69
+2,14,Atlas moth,3000,652,4-9,10-3,7pm - 4am,False,False,On trees,Uncommon,https://acnhapi.com/v1/images/bugs/14
+3,68,bagworm,600,622,,,,True,True,Shaking trees,Common,https://acnhapi.com/v1/images/bugs/68
+4,34,banded dragonfly,4500,635,5-10,11-4,8am - 5pm,False,False,Flying,Rare,https://acnhapi.com/v1/images/bugs/34
+5,21,bell cricket,430,642,9-10,3-4,5pm - 8am,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/21
+6,49,blue weevil beetle,800,3485,7-8,1-2,,True,False,On trees,Common,https://acnhapi.com/v1/images/bugs/49
+7,26,brown cicada,250,582,7-8,1-2,8am - 5pm,False,False,On trees,Common,https://acnhapi.com/v1/images/bugs/26
+8,77,centipede,300,628,9-6,3-12,4pm - 11pm,False,False,Hitting rocks,Common,https://acnhapi.com/v1/images/bugs/77
+9,31,cicada shell,10,641,7-8,1-2,,True,False,On trees,Rare,https://acnhapi.com/v1/images/bugs/31
+10,47,citrus long-horned beetle,350,609,,,,True,True,On tree stumps,Common,https://acnhapi.com/v1/images/bugs/47
+11,5,common bluebottle,300,3477,4-8,9-2,4am - 7pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/5
+12,1,common butterfly,160,626,9-6,3-12,4am - 7pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/1
+13,20,cricket,130,617,9-11,3-5,5pm - 8am,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/20
+14,59,cyclommatus stag,8000,602,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/59
+15,35,damselfly,500,5339,11-2,5-8,,True,False,Flying,Common,https://acnhapi.com/v1/images/bugs/35
+16,33,darner dragonfly,230,595,4-10,10-4,8am - 5pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/33
+17,39,diving beetle,800,594,5-9,11-3,8am - 7pm,False,False,On ponds and rivers,Common,https://acnhapi.com/v1/images/bugs/39
+18,53,drone beetle,200,3480,6-8,12-2,,True,False,On trees,Common,https://acnhapi.com/v1/images/bugs/53
+19,50,dung beetle,3000,604,12-2,6-8,,True,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/50
+20,51,earth-boring dung beetle,300,614,7-9,1-3,,True,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/51
+21,9,emperor butterfly,4000,627,6-9 & 12-3,6-9 & 12-3,5pm - 8am,False,False,Flying,Uncommon,https://acnhapi.com/v1/images/bugs/9
+22,30,evening cicada,550,601,7-8,1-2,4am - 8am & 4pm - 7pm,False,False,On trees,Common,https://acnhapi.com/v1/images/bugs/30
+23,36,firefly,300,603,6,12,7pm - 4am,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/36
+24,74,flea,70,633,4-11,10-5,,True,False,On villagers,Common,https://acnhapi.com/v1/images/bugs/74
+25,72,fly,60,597,,,,True,True,Near trash,Common,https://acnhapi.com/v1/images/bugs/72
+26,28,giant cicada,500,618,7-8,1-2,8am - 5pm,False,False,On trees,Uncommon,https://acnhapi.com/v1/images/bugs/28
+27,57,giant stag,10000,637,7-8,1-2,11pm - 8am,False,False,On trees,Rare,https://acnhapi.com/v1/images/bugs/57
+28,40,giant water bug,2000,5157,4-9,10-3,7pm - 8am,False,False,On ponds and rivers,Rare,https://acnhapi.com/v1/images/bugs/40
+29,61,giraffe stag,12000,3482,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/61
+30,60,golden stag,12000,638,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/60
+31,54,goliath beetle,8000,596,6-9,12-3,5pm to 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/54
+32,19,grasshopper,160,613,7-9,1-3,8am - 5pm,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/19
+33,7,great purple emperor,3000,3479,5-8,11-2,4am - 7pm,False,False,Flying,Rare,https://acnhapi.com/v1/images/bugs/7
+34,70,hermit crab,1000,651,,,7pm - 8am,False,True,On the beach,Common,https://acnhapi.com/v1/images/bugs/70
+35,24,honeybee,200,623,3-7,9-1,8am - 5pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/24
+36,63,horned atlas,8000,615,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/63
+37,62,horned dynastid,1350,612,7-8,1-2,5pm - 8am,False,False,On trees,Common,https://acnhapi.com/v1/images/bugs/62
+38,64,horned elephant,8000,653,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/64
+39,65,horned hercules,12000,600,7-8,1-2,5pm - 8am,False,False,On palm trees,Ultra-rare,https://acnhapi.com/v1/images/bugs/65
+40,45,jewel beetle,2400,645,4-8,11-2,,True,False,On tree stumps,Uncommon,https://acnhapi.com/v1/images/bugs/45
+41,43,ladybug,200,647,3-6 & 10,9-12 & 4,8am - 5pm,False,False,On flowers,Common,https://acnhapi.com/v1/images/bugs/43
+42,16,long locust,200,644,4-11,10-5,8am - 7pm,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/16
+43,15,Madagascan sunset moth,2500,3484,4-9,10-3,8am - 4pm,False,False,Flying,Uncommon,https://acnhapi.com/v1/images/bugs/15
+44,42,man-faced stink bug,1000,3483,3-10,9-4,7pm - 8am,False,False,On flowers,Uncommon,https://acnhapi.com/v1/images/bugs/42
+45,22,mantis,430,607,3-11,9-5,8am - 5pm,False,False,On flowers,Common,https://acnhapi.com/v1/images/bugs/22
+46,17,migratory locust,600,648,8-11,2-5,8am - 7pm,False,False,On the ground,Uncommon,https://acnhapi.com/v1/images/bugs/17
+47,56,miyama stag,1000,624,7-8,1-2,,True,False,On trees,Common,https://acnhapi.com/v1/images/bugs/56
+48,37,mole cricket,500,634,11-5,5-11,,True,False,Underground,Common,https://acnhapi.com/v1/images/bugs/37
+49,8,monarch butterfly,140,636,9-11,3-5,4am - 5pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/8
+50,73,mosquito,130,606,6-9,12-3,5pm - 4am,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/73
+51,13,moth,130,592,,,7pm - 4am,False,True,Flying by light,Common,https://acnhapi.com/v1/images/bugs/13
+52,23,orchid mantis,2400,598,3-11,9-5,8am - 5pm,False,False,On white flowers,Uncommon,https://acnhapi.com/v1/images/bugs/23
+53,6,paper kite butterfly,1000,3478,,,8am - 7pm,False,True,Flying,Common,https://acnhapi.com/v1/images/bugs/6
+54,4,peacock butterfly,2500,610,3-6,9-12,4am - 7pm,False,False,Flying near hybrid flowers,Uncommon,https://acnhapi.com/v1/images/bugs/4
+55,76,pill bug,250,590,9-6,3-12,11pm - 4pm,False,False,Hitting rocks,Common,https://acnhapi.com/v1/images/bugs/76
+56,38,pondskater,130,587,5-9,11-3,8am - 7pm,False,False,On ponds and rivers,Common,https://acnhapi.com/v1/images/bugs/38
+57,12,Queen Alexandra's birdwing,4000,586,5-9,11-3,8am - 4pm,False,False,Flying,Rare,https://acnhapi.com/v1/images/bugs/12
+58,58,rainbow stag,6000,631,6-9,12-3,7pm - 8am,False,False,On trees,Rare,https://acnhapi.com/v1/images/bugs/58
+59,11,Rajah Brooke's birdwing,2500,584,4-9 & 12-2,6-8 & 10-3,8am - 5pm,False,False,Flying,Uncommon,https://acnhapi.com/v1/images/bugs/11
+60,32,red dragonfly,180,585,9-10,3-4,8am - 7pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/32
+61,18,rice grasshopper,400,605,8-11,2-5,8am - 7pm,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/18
+62,27,robust cicada,300,621,7-8,1-2,8am - 5pm,False,False,On trees,Common,https://acnhapi.com/v1/images/bugs/27
+63,48,rosalia batesi beetle,3000,3487,5-9,11-3,,True,False,On tree stumps,Uncommon,https://acnhapi.com/v1/images/bugs/48
+64,55,saw stag,2000,632,7-8,1-2,,True,False,On trees,Common,https://acnhapi.com/v1/images/bugs/55
+65,52,scarab beetle,10000,639,7-8,1-2,11pm - 8am,False,False,On trees,Rare,https://acnhapi.com/v1/images/bugs/52
+66,80,scorpion,8000,640,5-10,11-4,7pm - 4am,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/80
+67,75,snail,250,611,,,,True,True,On rocks (when raining),Common,https://acnhapi.com/v1/images/bugs/75
+68,78,spider,600,619,,,7pm - 8am,False,True,,Common,https://acnhapi.com/v1/images/bugs/78
+69,41,stinkbug,120,608,3-10,9-4,,True,False,On flowers,Common,https://acnhapi.com/v1/images/bugs/41
+70,79,tarantula,8000,646,11-4,5-10,7pm - 4am,False,False,On the ground,Common,https://acnhapi.com/v1/images/bugs/79
+71,44,tiger beetle,1500,599,2-11,8-4,,True,False,On the ground,Uncommon,https://acnhapi.com/v1/images/bugs/44
+72,3,tiger butterfly,240,583,3-9,9-3,4am - 7pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/3
+73,46,violin beetle,450,650,5-6 & 9-11,3-5 & 11-12,,True,False,On tree stumps,Common,https://acnhapi.com/v1/images/bugs/46
+74,29,walker cicada,400,649,8-9,2-3,8am - 5pm,False,False,On trees,Common,https://acnhapi.com/v1/images/bugs/29
+75,67,walking leaf,600,616,7-9,1-3,,True,False,Under trees,Uncommon,https://acnhapi.com/v1/images/bugs/67
+76,66,walking stick,600,630,7-11,1-5,4am - 8am & 5pm - 7pm,False,False,On trees,Uncommon,https://acnhapi.com/v1/images/bugs/66
+77,25,wasp,2500,643,,,,True,True,Shaking trees,Common,https://acnhapi.com/v1/images/bugs/25
+78,71,wharf roach,200,591,,,,True,True,On beach rocks,Common,https://acnhapi.com/v1/images/bugs/71
+79,2,yellow butterfly,160,625,3-6 & 9-10,9-12 & 3-4,4am - 7pm,False,False,Flying,Common,https://acnhapi.com/v1/images/bugs/2

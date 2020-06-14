@@ -1,0 +1,2561 @@
+[{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a18"
+  },
+  "#": 56,
+  "Name": "anchovy",
+  "Sell": 200,
+  "Internal ID": 4201,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "4am - 9pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/56"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a19"
+  },
+  "#": 36,
+  "Name": "angelfish",
+  "Sell": 3000,
+  "Internal ID": 2247,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/36"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1a"
+  },
+  "#": 44,
+  "Name": "arapaima",
+  "Sell": 10000,
+  "Internal ID": 2253,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/44"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1b"
+  },
+  "#": 41,
+  "Name": "arowana",
+  "Sell": 10000,
+  "Internal ID": 2250,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/41"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1c"
+  },
+  "#": 58,
+  "Name": "barred knifejaw",
+  "Sell": 5000,
+  "Internal ID": 2265,
+  "Month Northern": "2-11",
+  "Month Southern": "9-5",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/58"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1d"
+  },
+  "#": 79,
+  "Name": "barreleye",
+  "Sell": 15000,
+  "Internal ID": 4204,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "9pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/79"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1e"
+  },
+  "#": 37,
+  "Name": "betta",
+  "Sell": 2500,
+  "Internal ID": 4191,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/37"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a1f"
+  },
+  "#": 1,
+  "Name": "bitterling",
+  "Sell": 900,
+  "Internal ID": 2215,
+  "Month Northern": "11-3",
+  "Month Southern": "5-9",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/1"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a20"
+  },
+  "#": 22,
+  "Name": "black bass",
+  "Sell": 400,
+  "Internal ID": 2234,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/22"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a21"
+  },
+  "#": 54,
+  "Name": "blowfish",
+  "Sell": 5000,
+  "Internal ID": 2262,
+  "Month Northern": "11-2",
+  "Month Southern": "5-8",
+  "Time": "9pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/54"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a22"
+  },
+  "#": 67,
+  "Name": "blue marlin",
+  "Sell": 10000,
+  "Internal ID": 2275,
+  "Month Northern": "11-4 & 7-9",
+  "Month Southern": "5-10 & 1-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pier",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/67"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a23"
+  },
+  "#": 20,
+  "Name": "bluegill",
+  "Sell": 180,
+  "Internal ID": 2232,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/20"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a24"
+  },
+  "#": 51,
+  "Name": "butterfly fish",
+  "Sell": 1000,
+  "Internal ID": 2259,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/51"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a25"
+  },
+  "#": 5,
+  "Name": "carp",
+  "Sell": 300,
+  "Internal ID": 2219,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/5"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a26"
+  },
+  "#": 18,
+  "Name": "catfish",
+  "Sell": 800,
+  "Internal ID": 2229,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/18"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a27"
+  },
+  "#": 28,
+  "Name": "char",
+  "Sell": 3800,
+  "Internal ID": 2239,
+  "Month Northern": "3-6 & 9-11",
+  "Month Southern": "3-5 & 9-12",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River (Clifftop) & Pond",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/28"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a28"
+  },
+  "#": 27,
+  "Name": "cherry salmon",
+  "Sell": 1000,
+  "Internal ID": 2238,
+  "Month Northern": "3-6 & 9-11",
+  "Month Southern": "3-5 & 9-12",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River (Clifftop)",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/27"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a29"
+  },
+  "#": 49,
+  "Name": "clown fish",
+  "Sell": 650,
+  "Internal ID": 2257,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/49"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2a"
+  },
+  "#": 80,
+  "Name": "coelacanth",
+  "Sell": 15000,
+  "Internal ID": 2284,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Sea (when raining or snowing)",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/80"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2b"
+  },
+  "#": 11,
+  "Name": "crawfish",
+  "Sell": 200,
+  "Internal ID": 2223,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/11"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2c"
+  },
+  "#": 3,
+  "Name": "crucian carp",
+  "Sell": 160,
+  "Internal ID": 328,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/3"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2d"
+  },
+  "#": 61,
+  "Name": "dab",
+  "Sell": 300,
+  "Internal ID": 2268,
+  "Month Northern": "10-4",
+  "Month Southern": "4-10",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/61"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2e"
+  },
+  "#": 4,
+  "Name": "dace",
+  "Sell": 240,
+  "Internal ID": 2217,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/4"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a2f"
+  },
+  "#": 42,
+  "Name": "dorado",
+  "Sell": 15000,
+  "Internal ID": 2251,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4am - 9pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/42"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a30"
+  },
+  "#": 77,
+  "Name": "football fish",
+  "Sell": 2500,
+  "Internal ID": 2273,
+  "Month Northern": "11-3",
+  "Month Southern": "5-9",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/77"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a31"
+  },
+  "#": 16,
+  "Name": "freshwater goby",
+  "Sell": 400,
+  "Internal ID": 2227,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/16"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a32"
+  },
+  "#": 15,
+  "Name": "frog",
+  "Sell": 120,
+  "Internal ID": 2226,
+  "Month Northern": "5-8",
+  "Month Southern": "11-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/15"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a33"
+  },
+  "#": 43,
+  "Name": "gar",
+  "Sell": 6000,
+  "Internal ID": 2252,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/43"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a34"
+  },
+  "#": 19,
+  "Name": "giant snakehead",
+  "Sell": 5500,
+  "Internal ID": 2231,
+  "Month Northern": "6-8",
+  "Month Southern": "12-2",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/19"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a35"
+  },
+  "#": 68,
+  "Name": "giant trevally",
+  "Sell": 4500,
+  "Internal ID": 2276,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pier",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/68"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a36"
+  },
+  "#": 29,
+  "Name": "golden trout",
+  "Sell": 15000,
+  "Internal ID": 4193,
+  "Month Northern": "3-5 & 9-11",
+  "Month Southern": "3-5 & 9-11",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River (Clifftop)",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/29"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a37"
+  },
+  "#": 7,
+  "Name": "goldfish",
+  "Sell": 1300,
+  "Internal ID": 329,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/7"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a38"
+  },
+  "#": 74,
+  "Name": "great white shark",
+  "Sell": 15000,
+  "Internal ID": 2280,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/74"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a39"
+  },
+  "#": 34,
+  "Name": "guppy",
+  "Sell": 1300,
+  "Internal ID": 2245,
+  "Month Northern": "4-11",
+  "Month Southern": "10-3",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/34"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3a"
+  },
+  "#": 73,
+  "Name": "hammerhead shark",
+  "Sell": 8000,
+  "Internal ID": 2279,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/73"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3b"
+  },
+  "#": 57,
+  "Name": "horse mackerel",
+  "Sell": 150,
+  "Internal ID": 2264,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/57"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3c"
+  },
+  "#": 10,
+  "Name": "killifish",
+  "Sell": 300,
+  "Internal ID": 2222,
+  "Month Northern": "4-8",
+  "Month Southern": "10-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/10"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3d"
+  },
+  "#": 32,
+  "Name": "king salmon",
+  "Sell": 1800,
+  "Internal ID": 2243,
+  "Month Northern": "9",
+  "Month Southern": "3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River (Mouth)",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/32"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3e"
+  },
+  "#": 6,
+  "Name": "koi",
+  "Sell": 4000,
+  "Internal ID": 2220,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Pond",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/6"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a3f"
+  },
+  "#": 17,
+  "Name": "loach",
+  "Sell": 400,
+  "Internal ID": 2228,
+  "Month Northern": "3-5",
+  "Month Southern": "9-11",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/17"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a40"
+  },
+  "#": 69,
+  "Name": "mahi-mahi",
+  "Sell": 6000,
+  "Internal ID": 4202,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pier",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/69"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a41"
+  },
+  "#": 33,
+  "Name": "mitten crab",
+  "Sell": 2000,
+  "Internal ID": 2244,
+  "Month Northern": "9-11",
+  "Month Southern": "3-5",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/33"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a42"
+  },
+  "#": 64,
+  "Name": "moray eel",
+  "Sell": 2000,
+  "Internal ID": 2271,
+  "Month Northern": "8-10",
+  "Month Southern": "2-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/64"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a43"
+  },
+  "#": 52,
+  "Name": "Napoleonfish",
+  "Sell": 10000,
+  "Internal ID": 2260,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "4am - 9pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/52"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a44"
+  },
+  "#": 38,
+  "Name": "neon tetra",
+  "Sell": 500,
+  "Internal ID": 2248,
+  "Month Northern": "4-11",
+  "Month Southern": "9-5",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/38"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a45"
+  },
+  "#": 35,
+  "Name": "nibble fish",
+  "Sell": 1500,
+  "Internal ID": 2246,
+  "Month Northern": "5-9",
+  "Month Southern": "11-3",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/35"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a46"
+  },
+  "#": 78,
+  "Name": "oarfish",
+  "Sell": 9000,
+  "Internal ID": 2283,
+  "Month Northern": "12-5",
+  "Month Southern": "6-11",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/78"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a47"
+  },
+  "#": 70,
+  "Name": "ocean sunfish",
+  "Sell": 4000,
+  "Internal ID": 2278,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "4am - 9pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/70"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a48"
+  },
+  "#": 62,
+  "Name": "olive flounder",
+  "Sell": 800,
+  "Internal ID": 2269,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/62"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a49"
+  },
+  "#": 2,
+  "Name": "pale chub",
+  "Sell": 200,
+  "Internal ID": 2216,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/2"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4a"
+  },
+  "#": 24,
+  "Name": "pike",
+  "Sell": 1800,
+  "Internal ID": 2235,
+  "Month Northern": "9-12",
+  "Month Southern": "3-6",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/24"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4b"
+  },
+  "#": 40,
+  "Name": "piranha",
+  "Sell": 2500,
+  "Internal ID": 2249,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "9am - 4pm & 9pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/40"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4c"
+  },
+  "#": 25,
+  "Name": "pond smelt",
+  "Sell": 400,
+  "Internal ID": 2236,
+  "Month Northern": "12-2",
+  "Month Southern": "6-8",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/25"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4d"
+  },
+  "#": 8,
+  "Name": "pop-eyed goldfish",
+  "Sell": 1300,
+  "Internal ID": 2221,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/8"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4e"
+  },
+  "#": 55,
+  "Name": "puffer fish",
+  "Sell": 250,
+  "Internal ID": 2263,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/55"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a4f"
+  },
+  "#": 39,
+  "Name": "rainbowfish",
+  "Sell": 800,
+  "Internal ID": 4194,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/39"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a50"
+  },
+  "#": 9,
+  "Name": "ranchu goldfish",
+  "Sell": 4500,
+  "Internal ID": 5254,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "9am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Pond",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/9"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a51"
+  },
+  "#": 71,
+  "Name": "ray",
+  "Sell": 3000,
+  "Internal ID": 2277,
+  "Month Northern": "8-11",
+  "Month Southern": "2-5",
+  "Time": "4am - 9pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/71"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a52"
+  },
+  "#": 60,
+  "Name": "red snapper",
+  "Sell": 3000,
+  "Internal ID": 2267,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/60"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a53"
+  },
+  "#": 65,
+  "Name": "ribbon eel",
+  "Sell": 600,
+  "Internal ID": 2272,
+  "Month Northern": "6-10",
+  "Month Southern": "12-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/65"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a54"
+  },
+  "#": 45,
+  "Name": "saddled bichir",
+  "Sell": 4000,
+  "Internal ID": 2254,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "9pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/45"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a55"
+  },
+  "#": 31,
+  "Name": "salmon",
+  "Sell": 700,
+  "Internal ID": 2242,
+  "Month Northern": "9",
+  "Month Southern": "3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River (Mouth)",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/31"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a56"
+  },
+  "#": 72,
+  "Name": "saw shark",
+  "Sell": 12000,
+  "Internal ID": 2281,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/72"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a57"
+  },
+  "#": 59,
+  "Name": "sea bass",
+  "Sell": 400,
+  "Internal ID": 2266,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/59"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a58"
+  },
+  "#": 47,
+  "Name": "sea butterfly",
+  "Sell": 1000,
+  "Internal ID": 2255,
+  "Month Northern": "12-3",
+  "Month Southern": "6-9",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/47"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a59"
+  },
+  "#": 48,
+  "Name": "sea horse",
+  "Sell": 1100,
+  "Internal ID": 2256,
+  "Month Northern": "4-11",
+  "Month Southern": "10-5",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/48"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5a"
+  },
+  "#": 13,
+  "Name": "snapping turtle",
+  "Sell": 5000,
+  "Internal ID": 4192,
+  "Month Northern": "4-10",
+  "Month Southern": "10-4",
+  "Time": "9pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/13"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5b"
+  },
+  "#": 12,
+  "Name": "soft-shelled turtle",
+  "Sell": 3750,
+  "Internal ID": 2224,
+  "Month Northern": "8-9",
+  "Month Southern": "2-3",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/12"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5c"
+  },
+  "#": 63,
+  "Name": "squid",
+  "Sell": 500,
+  "Internal ID": 2270,
+  "Month Northern": "12-8",
+  "Month Southern": "6-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/63"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5d"
+  },
+  "#": 30,
+  "Name": "stringfish",
+  "Sell": 15000,
+  "Internal ID": 2241,
+  "Month Northern": "12-3",
+  "Month Southern": "6-9",
+  "Time": "4pm - 9am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "River (Clifftop)",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/30"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5e"
+  },
+  "#": 46,
+  "Name": "sturgeon",
+  "Sell": 10000,
+  "Internal ID": 4189,
+  "Month Northern": "9-3",
+  "Month Southern": "3-9",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River (Mouth)",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/46"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a5f"
+  },
+  "#": 76,
+  "Name": "suckerfish",
+  "Sell": 1500,
+  "Internal ID": 4203,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/fish/76"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a60"
+  },
+  "#": 50,
+  "Name": "surgeonfish",
+  "Sell": 1000,
+  "Internal ID": 2258,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/50"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a61"
+  },
+  "#": 26,
+  "Name": "sweetfish",
+  "Sell": 900,
+  "Internal ID": 2237,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/26"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a62"
+  },
+  "#": 14,
+  "Name": "tadpole",
+  "Sell": 100,
+  "Internal ID": 2225,
+  "Month Northern": "3-7",
+  "Month Southern": "9-1",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pond",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/14"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a63"
+  },
+  "#": 23,
+  "Name": "tilapia",
+  "Sell": 800,
+  "Internal ID": 4190,
+  "Month Northern": "6-10",
+  "Month Southern": "12-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/23"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a64"
+  },
+  "#": 66,
+  "Name": "tuna",
+  "Sell": 7000,
+  "Internal ID": 2274,
+  "Month Northern": "11-4",
+  "Month Southern": "5-10",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Pier",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/66"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a65"
+  },
+  "#": 75,
+  "Name": "whale shark",
+  "Sell": 13000,
+  "Internal ID": 2282,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/fish/75"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a66"
+  },
+  "#": 21,
+  "Name": "yellow perch",
+  "Sell": 300,
+  "Internal ID": 2233,
+  "Month Northern": "10-3",
+  "Month Southern": "4-9",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "River",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/21"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a67"
+  },
+  "#": 53,
+  "Name": "zebra turkeyfish",
+  "Sell": 500,
+  "Internal ID": 2261,
+  "Month Northern": "4-11",
+  "Month Southern": "10-5",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Sea",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/fish/53"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a68"
+  },
+  "#": 10,
+  "Name": "agrias butterfly",
+  "Sell": 3000,
+  "Internal ID": 620,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/10"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a69"
+  },
+  "#": 69,
+  "Name": "ant",
+  "Sell": 80,
+  "Internal ID": 588,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "On rotten food",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/69"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6a"
+  },
+  "#": 14,
+  "Name": "Atlas moth",
+  "Sell": 3000,
+  "Internal ID": 652,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "7pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/14"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6b"
+  },
+  "#": 68,
+  "Name": "bagworm",
+  "Sell": 600,
+  "Internal ID": 622,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Shaking trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/68"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6c"
+  },
+  "#": 34,
+  "Name": "banded dragonfly",
+  "Sell": 4500,
+  "Internal ID": 635,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/34"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6d"
+  },
+  "#": 21,
+  "Name": "bell cricket",
+  "Sell": 430,
+  "Internal ID": 642,
+  "Month Northern": "9-10",
+  "Month Southern": "3-4",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/21"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6e"
+  },
+  "#": 49,
+  "Name": "blue weevil beetle",
+  "Sell": 800,
+  "Internal ID": 3485,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/49"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a6f"
+  },
+  "#": 26,
+  "Name": "brown cicada",
+  "Sell": 250,
+  "Internal ID": 582,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/26"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a70"
+  },
+  "#": 77,
+  "Name": "centipede",
+  "Sell": 300,
+  "Internal ID": 628,
+  "Month Northern": "9-6",
+  "Month Southern": "3-12",
+  "Time": "4pm - 11pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Hitting rocks",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/77"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a71"
+  },
+  "#": 31,
+  "Name": "cicada shell",
+  "Sell": 10,
+  "Internal ID": 641,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/31"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a72"
+  },
+  "#": 47,
+  "Name": "citrus long-horned beetle",
+  "Sell": 350,
+  "Internal ID": 609,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "On tree stumps",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/47"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a73"
+  },
+  "#": 5,
+  "Name": "common bluebottle",
+  "Sell": 300,
+  "Internal ID": 3477,
+  "Month Northern": "4-8",
+  "Month Southern": "9-2",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/5"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a74"
+  },
+  "#": 1,
+  "Name": "common butterfly",
+  "Sell": 160,
+  "Internal ID": 626,
+  "Month Northern": "9-6",
+  "Month Southern": "3-12",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/1"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a75"
+  },
+  "#": 20,
+  "Name": "cricket",
+  "Sell": 130,
+  "Internal ID": 617,
+  "Month Northern": "9-11",
+  "Month Southern": "3-5",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/20"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a76"
+  },
+  "#": 59,
+  "Name": "cyclommatus stag",
+  "Sell": 8000,
+  "Internal ID": 602,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/59"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a77"
+  },
+  "#": 35,
+  "Name": "damselfly",
+  "Sell": 500,
+  "Internal ID": 5339,
+  "Month Northern": "11-2",
+  "Month Southern": "5-8",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/35"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a78"
+  },
+  "#": 33,
+  "Name": "darner dragonfly",
+  "Sell": 230,
+  "Internal ID": 595,
+  "Month Northern": "4-10",
+  "Month Southern": "10-4",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/33"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a79"
+  },
+  "#": 39,
+  "Name": "diving beetle",
+  "Sell": 800,
+  "Internal ID": 594,
+  "Month Northern": "5-9",
+  "Month Southern": "11-3",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On ponds and rivers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/39"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7a"
+  },
+  "#": 53,
+  "Name": "drone beetle",
+  "Sell": 200,
+  "Internal ID": 3480,
+  "Month Northern": "6-8",
+  "Month Southern": "12-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/53"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7b"
+  },
+  "#": 50,
+  "Name": "dung beetle",
+  "Sell": 3000,
+  "Internal ID": 604,
+  "Month Northern": "12-2",
+  "Month Southern": "6-8",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/50"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7c"
+  },
+  "#": 51,
+  "Name": "earth-boring dung beetle",
+  "Sell": 300,
+  "Internal ID": 614,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/51"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7d"
+  },
+  "#": 9,
+  "Name": "emperor butterfly",
+  "Sell": 4000,
+  "Internal ID": 627,
+  "Month Northern": "6-9 & 12-3",
+  "Month Southern": "6-9 & 12-3",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/9"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7e"
+  },
+  "#": 30,
+  "Name": "evening cicada",
+  "Sell": 550,
+  "Internal ID": 601,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "4am - 8am & 4pm - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/30"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a7f"
+  },
+  "#": 36,
+  "Name": "firefly",
+  "Sell": 300,
+  "Internal ID": 603,
+  "Month Northern": "6",
+  "Month Southern": "12",
+  "Time": "7pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/36"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a80"
+  },
+  "#": 74,
+  "Name": "flea",
+  "Sell": 70,
+  "Internal ID": 633,
+  "Month Northern": "4-11",
+  "Month Southern": "10-5",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On villagers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/74"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a81"
+  },
+  "#": 72,
+  "Name": "fly",
+  "Sell": 60,
+  "Internal ID": 597,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Near trash",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/72"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a82"
+  },
+  "#": 28,
+  "Name": "giant cicada",
+  "Sell": 500,
+  "Internal ID": 618,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/28"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a83"
+  },
+  "#": 57,
+  "Name": "giant stag",
+  "Sell": 10000,
+  "Internal ID": 637,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "11pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/57"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a84"
+  },
+  "#": 40,
+  "Name": "giant water bug",
+  "Sell": 2000,
+  "Internal ID": 5157,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "7pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On ponds and rivers",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/40"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a85"
+  },
+  "#": 61,
+  "Name": "giraffe stag",
+  "Sell": 12000,
+  "Internal ID": 3482,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/61"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a86"
+  },
+  "#": 60,
+  "Name": "golden stag",
+  "Sell": 12000,
+  "Internal ID": 638,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/60"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a87"
+  },
+  "#": 54,
+  "Name": "goliath beetle",
+  "Sell": 8000,
+  "Internal ID": 596,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "5pm to 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/54"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a88"
+  },
+  "#": 19,
+  "Name": "grasshopper",
+  "Sell": 160,
+  "Internal ID": 613,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/19"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a89"
+  },
+  "#": 7,
+  "Name": "great purple emperor",
+  "Sell": 3000,
+  "Internal ID": 3479,
+  "Month Northern": "5-8",
+  "Month Southern": "11-2",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/7"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8a"
+  },
+  "#": 70,
+  "Name": "hermit crab",
+  "Sell": 1000,
+  "Internal ID": 651,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "7pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "On the beach",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/70"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8b"
+  },
+  "#": 24,
+  "Name": "honeybee",
+  "Sell": 200,
+  "Internal ID": 623,
+  "Month Northern": "3-7",
+  "Month Southern": "9-1",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/24"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8c"
+  },
+  "#": 63,
+  "Name": "horned atlas",
+  "Sell": 8000,
+  "Internal ID": 615,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/63"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8d"
+  },
+  "#": 62,
+  "Name": "horned dynastid",
+  "Sell": 1350,
+  "Internal ID": 612,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/62"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8e"
+  },
+  "#": 64,
+  "Name": "horned elephant",
+  "Sell": 8000,
+  "Internal ID": 653,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/64"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a8f"
+  },
+  "#": 65,
+  "Name": "horned hercules",
+  "Sell": 12000,
+  "Internal ID": 600,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "5pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On palm trees",
+  "Rarity": "Ultra-rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/65"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a90"
+  },
+  "#": 45,
+  "Name": "jewel beetle",
+  "Sell": 2400,
+  "Internal ID": 645,
+  "Month Northern": "4-8",
+  "Month Southern": "11-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On tree stumps",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/45"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a91"
+  },
+  "#": 43,
+  "Name": "ladybug",
+  "Sell": 200,
+  "Internal ID": 647,
+  "Month Northern": "3-6 & 10",
+  "Month Southern": "9-12 & 4",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On flowers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/43"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a92"
+  },
+  "#": 16,
+  "Name": "long locust",
+  "Sell": 200,
+  "Internal ID": 644,
+  "Month Northern": "4-11",
+  "Month Southern": "10-5",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/16"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a93"
+  },
+  "#": 15,
+  "Name": "Madagascan sunset moth",
+  "Sell": 2500,
+  "Internal ID": 3484,
+  "Month Northern": "4-9",
+  "Month Southern": "10-3",
+  "Time": "8am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/15"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a94"
+  },
+  "#": 42,
+  "Name": "man-faced stink bug",
+  "Sell": 1000,
+  "Internal ID": 3483,
+  "Month Northern": "3-10",
+  "Month Southern": "9-4",
+  "Time": "7pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On flowers",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/42"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a95"
+  },
+  "#": 22,
+  "Name": "mantis",
+  "Sell": 430,
+  "Internal ID": 607,
+  "Month Northern": "3-11",
+  "Month Southern": "9-5",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On flowers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/22"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a96"
+  },
+  "#": 17,
+  "Name": "migratory locust",
+  "Sell": 600,
+  "Internal ID": 648,
+  "Month Northern": "8-11",
+  "Month Southern": "2-5",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/17"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a97"
+  },
+  "#": 56,
+  "Name": "miyama stag",
+  "Sell": 1000,
+  "Internal ID": 624,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/56"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a98"
+  },
+  "#": 37,
+  "Name": "mole cricket",
+  "Sell": 500,
+  "Internal ID": 634,
+  "Month Northern": "11-5",
+  "Month Southern": "5-11",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Underground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/37"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a99"
+  },
+  "#": 8,
+  "Name": "monarch butterfly",
+  "Sell": 140,
+  "Internal ID": 636,
+  "Month Northern": "9-11",
+  "Month Southern": "3-5",
+  "Time": "4am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/8"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9a"
+  },
+  "#": 73,
+  "Name": "mosquito",
+  "Sell": 130,
+  "Internal ID": 606,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "5pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/73"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9b"
+  },
+  "#": 13,
+  "Name": "moth",
+  "Sell": 130,
+  "Internal ID": 592,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "7pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Flying by light",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/13"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9c"
+  },
+  "#": 23,
+  "Name": "orchid mantis",
+  "Sell": 2400,
+  "Internal ID": 598,
+  "Month Northern": "3-11",
+  "Month Southern": "9-5",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On white flowers",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/23"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9d"
+  },
+  "#": 6,
+  "Name": "paper kite butterfly",
+  "Sell": 1000,
+  "Internal ID": 3478,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/6"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9e"
+  },
+  "#": 4,
+  "Name": "peacock butterfly",
+  "Sell": 2500,
+  "Internal ID": 610,
+  "Month Northern": "3-6",
+  "Month Southern": "9-12",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying near hybrid flowers",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/4"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425a9f"
+  },
+  "#": 76,
+  "Name": "pill bug",
+  "Sell": 250,
+  "Internal ID": 590,
+  "Month Northern": "9-6",
+  "Month Southern": "3-12",
+  "Time": "11pm - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Hitting rocks",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/76"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa0"
+  },
+  "#": 38,
+  "Name": "pondskater",
+  "Sell": 130,
+  "Internal ID": 587,
+  "Month Northern": "5-9",
+  "Month Southern": "11-3",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On ponds and rivers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/38"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa1"
+  },
+  "#": 12,
+  "Name": "Queen Alexandra's birdwing",
+  "Sell": 4000,
+  "Internal ID": 586,
+  "Month Northern": "5-9",
+  "Month Southern": "11-3",
+  "Time": "8am - 4pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/12"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa2"
+  },
+  "#": 58,
+  "Name": "rainbow stag",
+  "Sell": 6000,
+  "Internal ID": 631,
+  "Month Northern": "6-9",
+  "Month Southern": "12-3",
+  "Time": "7pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/58"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa3"
+  },
+  "#": 11,
+  "Name": "Rajah Brooke's birdwing",
+  "Sell": 2500,
+  "Internal ID": 584,
+  "Month Northern": "4-9 & 12-2",
+  "Month Southern": "6-8 & 10-3",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/11"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa4"
+  },
+  "#": 32,
+  "Name": "red dragonfly",
+  "Sell": 180,
+  "Internal ID": 585,
+  "Month Northern": "9-10",
+  "Month Southern": "3-4",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/32"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa5"
+  },
+  "#": 18,
+  "Name": "rice grasshopper",
+  "Sell": 400,
+  "Internal ID": 605,
+  "Month Northern": "8-11",
+  "Month Southern": "2-5",
+  "Time": "8am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/18"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa6"
+  },
+  "#": 27,
+  "Name": "robust cicada",
+  "Sell": 300,
+  "Internal ID": 621,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/27"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa7"
+  },
+  "#": 48,
+  "Name": "rosalia batesi beetle",
+  "Sell": 3000,
+  "Internal ID": 3487,
+  "Month Northern": "5-9",
+  "Month Southern": "11-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On tree stumps",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/48"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa8"
+  },
+  "#": 55,
+  "Name": "saw stag",
+  "Sell": 2000,
+  "Internal ID": 632,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/55"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aa9"
+  },
+  "#": 52,
+  "Name": "scarab beetle",
+  "Sell": 10000,
+  "Internal ID": 639,
+  "Month Northern": "7-8",
+  "Month Southern": "1-2",
+  "Time": "11pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Rare",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/52"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aaa"
+  },
+  "#": 80,
+  "Name": "scorpion",
+  "Sell": 8000,
+  "Internal ID": 640,
+  "Month Northern": "5-10",
+  "Month Southern": "11-4",
+  "Time": "7pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/80"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aab"
+  },
+  "#": 75,
+  "Name": "snail",
+  "Sell": 250,
+  "Internal ID": 611,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "On rocks (when raining)",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/75"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aac"
+  },
+  "#": 78,
+  "Name": "spider",
+  "Sell": 600,
+  "Internal ID": 619,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "7pm - 8am",
+  "AllDay T/F": false,
+  "AllYear T/F": true,
+  "Location": "",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/78"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aad"
+  },
+  "#": 41,
+  "Name": "stinkbug",
+  "Sell": 120,
+  "Internal ID": 608,
+  "Month Northern": "3-10",
+  "Month Southern": "9-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On flowers",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/41"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aae"
+  },
+  "#": 79,
+  "Name": "tarantula",
+  "Sell": 8000,
+  "Internal ID": 646,
+  "Month Northern": "11-4",
+  "Month Southern": "5-10",
+  "Time": "7pm - 4am",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/79"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aaf"
+  },
+  "#": 44,
+  "Name": "tiger beetle",
+  "Sell": 1500,
+  "Internal ID": 599,
+  "Month Northern": "2-11",
+  "Month Southern": "8-4",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On the ground",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/44"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab0"
+  },
+  "#": 3,
+  "Name": "tiger butterfly",
+  "Sell": 240,
+  "Internal ID": 583,
+  "Month Northern": "3-9",
+  "Month Southern": "9-3",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/3"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab1"
+  },
+  "#": 46,
+  "Name": "violin beetle",
+  "Sell": 450,
+  "Internal ID": 650,
+  "Month Northern": "5-6 & 9-11",
+  "Month Southern": "3-5 & 11-12",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "On tree stumps",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/46"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab2"
+  },
+  "#": 29,
+  "Name": "walker cicada",
+  "Sell": 400,
+  "Internal ID": 649,
+  "Month Northern": "8-9",
+  "Month Southern": "2-3",
+  "Time": "8am - 5pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/29"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab3"
+  },
+  "#": 67,
+  "Name": "walking leaf",
+  "Sell": 600,
+  "Internal ID": 616,
+  "Month Northern": "7-9",
+  "Month Southern": "1-3",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": false,
+  "Location": "Under trees",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/67"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab4"
+  },
+  "#": 66,
+  "Name": "walking stick",
+  "Sell": 600,
+  "Internal ID": 630,
+  "Month Northern": "7-11",
+  "Month Southern": "1-5",
+  "Time": "4am - 8am & 5pm - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "On trees",
+  "Rarity": "Uncommon",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/66"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab5"
+  },
+  "#": 25,
+  "Name": "wasp",
+  "Sell": 2500,
+  "Internal ID": 643,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "Shaking trees",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/25"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab6"
+  },
+  "#": 71,
+  "Name": "wharf roach",
+  "Sell": 200,
+  "Internal ID": 591,
+  "Month Northern": "",
+  "Month Southern": "",
+  "Time": "",
+  "AllDay T/F": true,
+  "AllYear T/F": true,
+  "Location": "On beach rocks",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/71"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab7"
+  },
+  "#": 2,
+  "Name": "yellow butterfly",
+  "Sell": 160,
+  "Internal ID": 625,
+  "Month Northern": "3-6 & 9-10",
+  "Month Southern": "9-12 & 3-4",
+  "Time": "4am - 7pm",
+  "AllDay T/F": false,
+  "AllYear T/F": false,
+  "Location": "Flying",
+  "Rarity": "Common",
+  "Image URL": "https://acnhapi.com/v1/images/bugs/2"
+}]

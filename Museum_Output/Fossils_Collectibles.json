@@ -1,0 +1,731 @@
+[{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab8"
+  },
+  "Name": "acanthostega",
+  "Buy": "NFS",
+  "Sell": 2000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4664,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/acanthostega"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ab9"
+  },
+  "Name": "amber",
+  "Buy": "NFS",
+  "Sell": 1200,
+  "Source": "Assessing fossils",
+  "Internal ID": 294,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/amber"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aba"
+  },
+  "Name": "ammonite",
+  "Buy": "NFS",
+  "Sell": 1100,
+  "Source": "Assessing fossils",
+  "Internal ID": 295,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ammonite"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425abb"
+  },
+  "Name": "ankylo_skull",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 169,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ankylo_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425abc"
+  },
+  "Name": "ankylo_tail",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 171,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ankylo_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425abd"
+  },
+  "Name": "ankylo_torso",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 170,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ankylo_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425abe"
+  },
+  "Name": "anomalocaris",
+  "Buy": "NFS",
+  "Sell": 2000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4651,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/anomalocaris"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425abf"
+  },
+  "Name": "archaeopteryx",
+  "Buy": "NFS",
+  "Sell": 1300,
+  "Source": "Assessing fossils",
+  "Internal ID": 298,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/archaeopteryx"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac0"
+  },
+  "Name": "archelon_skull",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 177,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/archelon_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac1"
+  },
+  "Name": "archelon_tail",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 178,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/archelon_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac2"
+  },
+  "Name": "australopith",
+  "Buy": "NFS",
+  "Sell": 1100,
+  "Source": "Assessing fossils",
+  "Internal ID": 301,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/australopith"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac3"
+  },
+  "Name": "brachio_chest",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4689,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/brachio_chest"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac4"
+  },
+  "Name": "brachio_pelvis",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4690,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/brachio_pelvis"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac5"
+  },
+  "Name": "brachio_skull",
+  "Buy": "NFS",
+  "Sell": 6000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4688,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/brachio_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac6"
+  },
+  "Name": "brachio_tail",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4691,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/brachio_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac7"
+  },
+  "Name": "coprolite",
+  "Buy": "NFS",
+  "Sell": 1100,
+  "Source": "Assessing fossils",
+  "Internal ID": 296,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/coprolite"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac8"
+  },
+  "Name": "deinony_tail",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 211,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/deinony_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ac9"
+  },
+  "Name": "deinony_torso",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 210,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/deinony_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aca"
+  },
+  "Name": "dimetrodon_skull",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 184,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/dimetrodon_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425acb"
+  },
+  "Name": "dimetrodon_torso",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 185,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/dimetrodon_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425acc"
+  },
+  "Name": "dinosaur_track",
+  "Buy": "NFS",
+  "Sell": 1000,
+  "Source": "Assessing fossils",
+  "Internal ID": 300,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/dinosaur_track"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425acd"
+  },
+  "Name": "diplo_chest",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 218,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_chest"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ace"
+  },
+  "Name": "diplo_neck",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 217,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_neck"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425acf"
+  },
+  "Name": "diplo_pelvis",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 219,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_pelvis"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad0"
+  },
+  "Name": "diplo_skull",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 216,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad1"
+  },
+  "Name": "diplo_tail",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 220,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad2"
+  },
+  "Name": "diplo_tail_tip",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 7251,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/diplo_tail_tip"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad3"
+  },
+  "Name": "dunkleosteus",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4660,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/dunkleosteus"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad4"
+  },
+  "Name": "eusthenopteron",
+  "Buy": "NFS",
+  "Sell": 2000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4663,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/eusthenopteron"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad5"
+  },
+  "Name": "iguanodon_skull",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 188,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/iguanodon_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad6"
+  },
+  "Name": "iguanodon_tail",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 190,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/iguanodon_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad7"
+  },
+  "Name": "iguanodon_torso",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 189,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/iguanodon_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad8"
+  },
+  "Name": "juramaia",
+  "Buy": "NFS",
+  "Sell": 1500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4665,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/juramaia"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ad9"
+  },
+  "Name": "left_megalo_side",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4659,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/left_megalo_side"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ada"
+  },
+  "Name": "left_ptera_wing",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 208,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/left_ptera_wing"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425adb"
+  },
+  "Name": "left_quetzal_wing",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4699,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/left_quetzal_wing"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425adc"
+  },
+  "Name": "mammoth_skull",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 195,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/mammoth_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425add"
+  },
+  "Name": "mammoth_torso",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 196,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/mammoth_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ade"
+  },
+  "Name": "megacero_skull",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 180,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/megacero_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425adf"
+  },
+  "Name": "megacero_tail",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 182,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/megacero_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae0"
+  },
+  "Name": "megacero_torso",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 181,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/megacero_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae1"
+  },
+  "Name": "myllokunmingia",
+  "Buy": "NFS",
+  "Sell": 1500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4662,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/myllokunmingia"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae2"
+  },
+  "Name": "ophthalmo_skull",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 192,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ophthalmo_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae3"
+  },
+  "Name": "ophthalmo_torso",
+  "Buy": "NFS",
+  "Sell": 2000,
+  "Source": "Assessing fossils",
+  "Internal ID": 193,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ophthalmo_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae4"
+  },
+  "Name": "pachy_skull",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 198,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/parasaur_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae5"
+  },
+  "Name": "pachy_tail",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 199,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/parasaur_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae6"
+  },
+  "Name": "parasaur_skull",
+  "Buy": "NFS",
+  "Sell": 3500,
+  "Source": "Assessing fossils",
+  "Internal ID": 202,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/parasaur_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae7"
+  },
+  "Name": "parasaur_tail",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 204,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/plesio_body"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae8"
+  },
+  "Name": "parasaur_torso",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 203,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/plesio_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425ae9"
+  },
+  "Name": "plesio_body",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 235,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/plesio_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aea"
+  },
+  "Name": "plesio_skull",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 234,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/ptera_body"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aeb"
+  },
+  "Name": "plesio_tail",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 236,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/quetzal_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aec"
+  },
+  "Name": "ptera_body",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 206,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/right_megalo_side"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aed"
+  },
+  "Name": "quetzal_torso",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4697,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/right_ptera_wing"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aee"
+  },
+  "Name": "right_megalo_side",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 4658,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/right_quetzal_wing"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aef"
+  },
+  "Name": "right_ptera_wing",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 207,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/sabertooth_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af0"
+  },
+  "Name": "right_quetzal_wing",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 4698,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/sabertooth_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af1"
+  },
+  "Name": "sabertooth_skull",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 213,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/shark-tooth_pattern"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af2"
+  },
+  "Name": "sabertooth_tail",
+  "Buy": "NFS",
+  "Sell": 2000,
+  "Source": "Assessing fossils",
+  "Internal ID": 214,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/spino_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af3"
+  },
+  "Name": "shark-tooth_pattern",
+  "Buy": "NFS",
+  "Sell": 1000,
+  "Source": "Assessing fossils",
+  "Internal ID": 302,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/spino_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af4"
+  },
+  "Name": "spino_skull",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 222,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/spino_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af5"
+  },
+  "Name": "spino_tail",
+  "Buy": "NFS",
+  "Sell": 2500,
+  "Source": "Assessing fossils",
+  "Internal ID": 224,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/stego_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af6"
+  },
+  "Name": "spino_torso",
+  "Buy": "NFS",
+  "Sell": 3000,
+  "Source": "Assessing fossils",
+  "Internal ID": 223,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/stego_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af7"
+  },
+  "Name": "stego_skull",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 226,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/stego_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af8"
+  },
+  "Name": "stego_tail",
+  "Buy": "NFS",
+  "Sell": 4000,
+  "Source": "Assessing fossils",
+  "Internal ID": 228,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/tricera_skull"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425af9"
+  },
+  "Name": "stego_torso",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 227,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/tricera_tail"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425afa"
+  },
+  "Name": "T._rex_skull",
+  "Buy": "NFS",
+  "Sell": 6000,
+  "Source": "Assessing fossils",
+  "Internal ID": 238,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/tricera_torso"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425afb"
+  },
+  "Name": "T._rex_tail",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 240,
+  "Image URL": "https://acnhapi.com/v1/images/fossils/trilobite"
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425afc"
+  },
+  "Name": "T._rex_torso",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 239,
+  "Image URL": null
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425afd"
+  },
+  "Name": "tricera_skull",
+  "Buy": "NFS",
+  "Sell": 5500,
+  "Source": "Assessing fossils",
+  "Internal ID": 242,
+  "Image URL": null
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425afe"
+  },
+  "Name": "tricera_tail",
+  "Buy": "NFS",
+  "Sell": 4500,
+  "Source": "Assessing fossils",
+  "Internal ID": 244,
+  "Image URL": null
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425aff"
+  },
+  "Name": "tricera_torso",
+  "Buy": "NFS",
+  "Sell": 5000,
+  "Source": "Assessing fossils",
+  "Internal ID": 243,
+  "Image URL": null
+},{
+  "_id": {
+    "$oid": "5ee57743916c92302d425b00"
+  },
+  "Name": "trilobite",
+  "Buy": "NFS",
+  "Sell": 1300,
+  "Source": "Assessing fossils",
+  "Internal ID": 303,
+  "Image URL": null
+}]
